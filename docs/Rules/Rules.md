@@ -7,7 +7,7 @@
 
 2. Civilian roleplays shall always remain realistic, such as if you run into a tree at a high rate of speed roleplay being injured regardless if the vehicle is working or not.
 
-3. Civilians will not break the priority guidelines (listed below) under any circumstances.
+3. Civilians will not break the priority guidelines [listed here](https://greater-ontario-gaming.github.io/CIVDocsGORP/Rules/Prioritys/prioritys/) under any circumstances.
 
 4. If a civilian wishes to do a scene that involves any form of investigation they must first consult the supervising officer of all active LEO departments.
 
@@ -35,4 +35,4 @@
 
 16. Civilians must keep their Roleplay to a certain level of realism and things that happen day to day in Ontario, so no shootings every five minutes, calls don’t always have to end in a pursuit or shootout. We like common calls such as disturbances or traffic stops; not every scene has to be a priority.
 
-17. There is no place for nonsensical calls on our server. If you want to goof off you can join a public server. We try to offer a realistic server for our members to enjoy no talking monkeys or people yelling into their microphones to be annoying.
+### There is no place for nonsensical calls on our server. If you want to goof off you can join a public server. We try to offer a realistic server for our members to enjoy no talking monkeys or people yelling into their microphones to be annoying.

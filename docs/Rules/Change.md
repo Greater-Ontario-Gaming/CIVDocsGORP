@@ -1,6 +1,11 @@
 # Changes To SOP
 
 
+## LAUNCHED WEBSITE
+09/03/2023
+
+The server is now publicly available
+
 ## Reworded Prioritys
 09/02/2023
 

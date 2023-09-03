@@ -15,11 +15,11 @@ Permission Keys:
 
 ## [<span style="color:rgb(153,50,204)">Teamspeak</span>](https://www.teamspeak.com/en/downloads/)
 
-IP: 51.81.38.215
+IP: 45.94.168.170
 
 
 ## [<span style="color:rgb(153,50,204)">FiveM</span>](https://fivem.net/)
 
-IP: 51.81.38.215
+IP: 45.94.168.170
 
 Open FiveM, push F8, select Launch , MP, enter the IP address in below Local and click Connect.

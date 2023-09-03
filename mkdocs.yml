@@ -13,6 +13,7 @@ nav:
       - Civ II: Rules/Rank/II.md
       - Civ III: Rules/Rank/III.md
       - Civ IV: Rules/Rank/IV.md
+      - Probationary CIV: Rules/Rank/Porb.md
     - Prioritys:
       - Prioritys: Rules/Prioritys/prioritys.md
       - Priority 3: Rules/Prioritys/priority-3.md
@@ -39,6 +40,9 @@ nav:
     - Calling 911: Important/911.md
     - Tow Trucks: Important/tow.md
     - Call Ideas: Important/call.md
+  - Civilian Training:
+    - Training: Trainging/Train.md
+    - Testing: Trainging/Test.md
   - Meet The Team:
     - Department: Meet/Dept.md
     - Staff: Meet/Staff.md
