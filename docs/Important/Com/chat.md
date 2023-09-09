@@ -1,7 +1,8 @@
-# Commands used in the text chat
+<h1>Commands used in the text chat</h1>
 
 
-## Most Useful Commands
+<h2>Most Useful Commands</h2>
+
 Command      |Use
 -------------|-------------
 /Revive      |To revive your player after death
@@ -14,7 +15,8 @@ Command      |Use
 /detach      |Opposite of attach
 /postal ###  |Replace ### with a postal code and the game will waypoint that location
 
-## General Commands
+<h2>General Commands</h2>
+
 Command      |Use
 -------------|-------------
 /Startfire   |Starts a fire with desired conditions in front of player
@@ -22,7 +24,8 @@ Command      |Use
 /Stopallfires|Stops all fires on the map
 /Stopallsmoke|Stops all smoke on the map
 
-## Roleplay Related
+<h2>Roleplay Related</h2>
+
 Command      |Use
 -------------|-------------
 /Takehostage |Takes the nearest player hostage
