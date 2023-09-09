@@ -1,6 +1,7 @@
-# Heart Attack
+<h1>Heart Attack</h1>
 
-## Symtoms
+<h2>Symtoms</h2>
+
 - Chest pain
 - Pain or discomfort that spreads the shoulder, arm, back, neck, jaw, teeth or belly
 - Cold sweat
@@ -10,7 +11,8 @@
 - Nausea
 - Shortness of breath
 
-## causes
+<h2>causes</h2>
+
 - An acute complete blockage of a medium or large heart artery
 - A partial blockage
 - Coronary artery spasm

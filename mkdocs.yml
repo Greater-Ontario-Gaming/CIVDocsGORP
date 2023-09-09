@@ -57,7 +57,6 @@ theme:
   features:
     - nevigation.tabs
     - navigation.sections
-    - toc.intergrate
     - navigation.top
     - search.suggest
     - search.highlight

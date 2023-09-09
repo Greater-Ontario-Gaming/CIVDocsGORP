@@ -1,6 +1,7 @@
-# Heat Stroke
+<h1>Heat Stroke</h1>
 
-## Symtoms
+<h2>Symtoms</h2>
+
 - High body temps
 - Altered mental state
 - Alteration in sweating
@@ -11,13 +12,15 @@
 - Headache
 - Blurred or double vision
 
-## Causes
+<h2>Causes</h2>
+
 - Exposure to a hot enviroment
 - Strenuous activity
 - Wearing excess clothing
 - Becoming dehydrated
 - Drinking alcohol
 
-## Results Without Intervention
+<h2>Results Without Intervention</h2>
+
 - Vital organ damage
 - Death

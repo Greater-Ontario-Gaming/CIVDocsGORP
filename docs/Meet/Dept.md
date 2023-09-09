@@ -1,4 +1,4 @@
-## Primary
+<h2>Primary</h2>
 
 Rank          |Name        |ID       |Reserve
 ---           |:---:       |:---     |---:
@@ -13,7 +13,7 @@ Civilian IV   |A. Keys     |135      |
 
 
 
-## Reserve
+<h2>Reserve</h2>
 
 Rank          |Name          |Main Dept.
 ---           |:---:         |:---:

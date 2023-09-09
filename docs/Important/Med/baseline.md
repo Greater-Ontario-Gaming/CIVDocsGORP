@@ -1,6 +1,6 @@
-# BaseLine
+<h1>BaseLine</h1>
 
-## Normal Levels for vitals when dealing with EMS
+<h2>Normal Levels for vitals when dealing with EMS</h2>
 
 Vital           |Normal Range
 ---:            |:---

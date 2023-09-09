@@ -1,6 +1,7 @@
-# Drug Allergy
+<h1>Drug Allergy</h1>
 
-## Symtoms
+<h2>Symtoms</h2>
+
 - Skin rash
 - Hives
 - Itching
@@ -11,7 +12,7 @@
 - Runny nose
 - Itchy, watery eyes
 
-## Anaphylaxis
+<h2>Anaphylaxis</h2>
 
 Anaphylaxis is a rare, life-threatening reaction to a drug allergy that causes the widespread dysfunction of body systems. Symptoms of anaphylaxis include:
 

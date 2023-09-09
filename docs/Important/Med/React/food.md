@@ -1,6 +1,7 @@
-# Food Allergy
+<h1>Food Allergy</h1>
 
-## Symptoms
+<h2>Symptoms</h2>
+
 - Itchy tounge or mouth
 - Hives
 - Eczema
@@ -11,7 +12,8 @@
 - Wheezomg
 - Swellinmg of the face, mouth, or throat
 
-## Causes
+<h2>Causes</h2>
+
 - Shellfish
 - Milk
 - Wheat
