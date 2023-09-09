@@ -31,3 +31,6 @@ Command      |Use
 /Carry       |Carrys the nearest player over  your shoulder
 /cuff        |Cuffs nearest player
 /binoculars  |Player uses binoculars
+/setinv      |Sets players inventory
+/setvehinv   |Sets players vehicle inventory
+/clearvehinv |Reset players vehicle inventory
