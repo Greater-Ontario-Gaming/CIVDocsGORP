@@ -4,12 +4,10 @@ Rank          |Name        |ID       |Reserve
 ---           |:---:       |:---     |---:
 Civ Supervisor|D.Klarc     |16       |
 Civilian I    |G.Matt      |20       |
-Civilian II   |E. Walker   |28       |
 Civilian III  |E. Dragon   |40       |
 Civilian III  |C. Jackson  |41       |
-Civilian III  |D. Beamon   |42       |
-Civilian III  |N. Rogers   |81       |
-Civilian IV   |A. Keys     |135      |
+Civilian III  |N. Rogers   |81       |Fire
+Civilian IV   |Z. Fed      |135      |
 
 
 
