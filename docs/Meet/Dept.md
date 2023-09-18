@@ -22,6 +22,5 @@ Reserve Civ IV|J. Hillenbrand|OPP
 Reserve Civ IV|J. Stalino    |EMS
 Reserve Civ IV|M. Johnson    |OPP
 Reserve Civ IV|O. Pergant    |OPP
-Reserve Civ IV|T. Barbosa    |OPP
 Reserve Civ IV|M. Acri       |OPP
 Reserve Civ IV|E. Rose       |OPP
