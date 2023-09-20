@@ -1,13 +1,13 @@
 <h2>Primary</h2>
 
 Rank          |Name        |ID       |Reserve
----           |:---:       |:---     |---:
+---           |:---:       |:---:    |:---:
 Civ Supervisor|D.Klarc     |16       |
 Civilian I    |G.Matt      |20       |
 Civilian III  |E. Dragon   |40       |
 Civilian III  |C. Jackson  |41       |
 Civilian III  |N. Rogers   |81       |Fire
-Civilian IV   |Z. Fed      |135      |
+Civilian IV   |X. Mas      |135      |
 
 
 
