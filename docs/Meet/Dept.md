@@ -7,6 +7,7 @@ Civilian I    |G.Matt      |20       |
 Civilian III  |E. Dragon   |40       |
 Civilian III  |C. Jackson  |41       |
 Civilian III  |N. Rogers   |81       |Fire
+Civilian IV   |J. Halstead |65       |
 Civilian IV   |X. Mas      |135      |
 
 
@@ -18,7 +19,6 @@ Rank          |Name          |Main Dept.
 Reserve Civ I |C. Wild       |OPP/Fire/EMS
 Reserve Civ I |M. Brandon    |OPP
 Reserve Civ IV|Z. Foresberg  |OPP
-Reserve Civ IV|J. Hillenbrand|OPP
 Reserve Civ IV|J. Stalino    |EMS
 Reserve Civ IV|M. Johnson    |OPP
 Reserve Civ IV|O. Pergant    |OPP
