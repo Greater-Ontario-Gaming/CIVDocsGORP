@@ -19,6 +19,9 @@ nav:
       - Priority 3: Rules/Prioritys/priority-3.md
       - Priority 2: Rules/Prioritys/priority-2.md
       - Priority 1: Rules/Prioritys/priority-1.md
+  - Civilian Training:
+    - Training: Trainging/Train.md
+    - Testing: Trainging/Test.md
   - Important Information:
     - Fourms: Important/Fourms.md
     - Downloads: Important/Downloads.md
@@ -40,9 +43,6 @@ nav:
     - Calling 911: Important/911.md
     - Tow Trucks: Important/tow.md
     - Call Ideas: Important/call.md
-  - Civilian Training:
-    - Training: Trainging/Train.md
-    - Testing: Trainging/Test.md
   - Meet The Team:
     - Department: Meet/Dept.md
     - Staff: Meet/Staff.md
