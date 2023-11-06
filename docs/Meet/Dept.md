@@ -4,11 +4,12 @@ Rank          |Name        |ID       |Reserve
 ---           |:---:       |:---:    |:---:
 Civ Supervisor|D.Klarc     |16       |
 Civilian I    |G.Matt      |20       |
-Civilian III  |E. Dragon   |40       |
-Civilian III  |C. Jackson  |41       |
+Civilian II   |J. Halstead |25       |
 Civilian III  |N. Rogers   |81       |Fire
-Civilian IV   |J. Halstead |65       |
-Civilian IV   |X. Mas      |135      |
+Civilian III  |E. Walker   |41       |
+Civilian IV   |E. Dragon   |40       |
+Prob. Civilian|A. Woronko  |135      |
+Prob. Civilian|Y. vasylenko|138      |
 
 
 
@@ -19,8 +20,8 @@ Rank          |Name          |Main Dept.
 Reserve Civ I |C. Wild       |OPP/Fire/EMS
 Reserve Civ I |M. Brandon    |OPP
 Reserve Civ IV|Z. Foresberg  |OPP
-Reserve Civ IV|J. Stalino    |EMS
 Reserve Civ IV|M. Johnson    |OPP
 Reserve Civ IV|O. Pergant    |OPP
 Reserve Civ IV|M. Acri       |OPP
-Reserve Civ IV|E. Rose       |OPP
+Reserve Civ IV|M. Bennett    |OPP
+Reserve Civ IV|O. Copper     |OPP
