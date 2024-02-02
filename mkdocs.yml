@@ -2,6 +2,7 @@ site_name: GORP Civilian Docs
 
 nav:
   - Welcome: index.md
+  -CAD: CAD
   - Rules and Regulations:
     - Rules: Rules/Rules.md
     - Changes: Rules/Change.md
@@ -93,4 +94,4 @@ extra:
   homepage: https://greater-ontario-gaming.github.io/CIVDocsGORP/Rules/Rules/
 
 copyright:  |
-  &copy; 2023 <a herf="https://github.com/deathstryder" target="_blank" rel="noopener">Greater Ontario Roleplay</a>
+  &copy; 2024 <a herf="https://github.com/deathstryder" target="_blank" rel="noopener">Greater Ontario Roleplay</a>
