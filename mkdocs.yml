@@ -2,7 +2,7 @@ site_name: GORP Civilian Docs
 
 nav:
   - Welcome: index.md
-  -CAD: CAD
+  - CAD: CAD
   - Rules and Regulations:
     - Rules: Rules/Rules.md
     - Changes: Rules/Change.md
